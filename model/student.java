@@ -2,8 +2,10 @@ package model;
 
 public class student {
 
+    private int ID;
     private String name;
-    private char ID;
+    private String username;
+    private char password;
 
 
 }
